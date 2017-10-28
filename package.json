@@ -2,7 +2,7 @@
   "name": "spr",
   "version": "1.0.0",
   "description": "website for southern petroleum resources",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "babel-node": "babel-node --presets=env",
     "dev": "nodemon --exec npm run babel-node -- ./server.js",
