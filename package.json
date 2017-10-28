@@ -19,6 +19,7 @@
   "author": "Michael Olie",
   "license": "ISC",
   "dependencies": {
+    "babel-cli": "^6.26.0",
     "body-parser": "^1.17.2",
     "charming": "^2.0.1",
     "compression": "^1.7.0",
@@ -29,7 +30,6 @@
     "sqreen": "^1.10.1"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.0",
